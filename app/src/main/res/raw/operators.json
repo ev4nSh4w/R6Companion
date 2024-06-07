@@ -1,0 +1,1153 @@
+[
+  {
+    "id": 1,
+    "name": "Smoke",
+    "role": "Защита",
+    "unit": "SAS",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ae/Smoke_Icon_-_Standard.png",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0d/Smoke_-_Full_Body.png",
+    "description": "Оперативник SAS, использующий ядовитый газ для блокирования проходов и нанесения урона противникам.",
+    "weapons": [
+      {
+        "id": 1,
+        "name": "M590A1",
+        "description": "Помповое ружье для ближнего боя и взлома стен.",
+        "damage": 48,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/c0/R6S_M590A1.png/revision/latest/scale-to-width-down/350?cb=20220525145244"
+      },
+      {
+        "id": 2,
+        "name": "FMG-9",
+        "description": "Складной пистолет-пулемет с хорошей точностью и мобильностью.",
+        "damage": 34,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f2/R6S_FMG-9.png/revision/latest/scale-to-width-down/1000?cb=20220525145211"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mute",
+    "role": "Защита",
+    "unit": "SAS",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/c2/Mute_Icon_-_Standard.png/revision/latest?cb=20151222045525",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7e/Mute_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180213232125",
+    "description": "Оперативник SAS, использующий глушилки для блокировки сигнала вражеских дронов и гаджетов.",
+    "weapons": [
+      {
+        "id": 3,
+        "name": "MP5K",
+        "description": "Компактный пистолет-пулемет с высокой скорострельностью и точностью.",
+        "damage": 30,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8f/R6S_MP5K.png/revision/latest/scale-to-width-down/1000?cb=20220525145253"
+      },
+      {
+        "id": 4,
+        "name": "M590A1",
+        "description": "Помповое ружье для ближнего боя и взлома стен.",
+        "damage": 48,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/c0/R6S_M590A1.png/revision/latest/scale-to-width-down/1000?cb=20220525145244"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Castle",
+    "role": "Защита",
+    "unit": "FBI SWAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/a9/Castle_Badge_2.png/revision/latest?cb=20151222045523",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d4/Castle_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180323011330",
+    "description": "Оперативник FBI SWAT, устанавливающий бронированные баррикады для усиления защиты команды.",
+    "weapons": [
+      {
+        "id": 5,
+        "name": "UMP45",
+        "description": "Пистолет-пулемет с контролируемой скорострельностью и хорошей точностью.",
+        "damage": 38,
+        "fire_rate": 600,
+        "magazine": 25,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/02/R6S_UMP45.png/revision/latest/scale-to-width-down/1000?cb=20220525145615"
+      },
+      {
+        "id": 6,
+        "name": "M1014",
+        "description": "Полуавтоматическое ружье, эффективное в ближнем бою.",
+        "damage": 32,
+        "fire_rate": 75,
+        "magazine": 8,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8b/R6S_M1014.png/revision/latest/scale-to-width-down/1000?cb=20220525145248"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pulse",
+    "role": "Защита",
+    "unit": "FBI SWAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/40/Pulse_Badge_2.png/revision/latest?cb=20151222045526",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/61/Pulse_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200325001743",
+    "description": "Оперативник FBI SWAT, использующий датчик сердцебиения для обнаружения врагов через стены.",
+    "weapons": [
+      {
+        "id": 5,
+        "name": "UMP45",
+        "description": "Пистолет-пулемет с контролируемой скорострельностью и хорошей точностью.",
+        "damage": 38,
+        "fire_rate": 600,
+        "magazine": 25,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/02/R6S_UMP45.png/revision/latest/scale-to-width-down/1000?cb=20220525145615"
+      },
+      {
+        "id": 6,
+        "name": "M1014",
+        "description": "Полуавтоматическое ружье, эффективное в ближнем бою.",
+        "damage": 32,
+        "fire_rate": 75,
+        "magazine": 8,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8b/R6S_M1014.png/revision/latest/scale-to-width-down/1000?cb=20220525145248"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Doc",
+    "role": "Защита",
+    "unit": "GIGN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8f/Doc_Badge_2.png/revision/latest?cb=20151222045524",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/88/Doc_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200325001932",
+    "description": "Оперативник GIGN, использующий стимуляторный пистолет для лечения себя и союзников.",
+    "weapons": [
+      {
+        "id": 7,
+        "name": "MP5",
+        "description": "Пистолет-пулемет с высокой точностью и умеренным уроном.",
+        "damage": 30,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6c/R6S_MP5_.png/revision/latest/scale-to-width-down/1000?cb=20220525145252"
+      },
+      {
+        "id": 8,
+        "name": "P90",
+        "description": "Пистолет-пулемет с высокой скорострельностью и большим магазином.",
+        "damage": 22,
+        "fire_rate": 970,
+        "magazine": 50,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/ec/R6S_P90.png/revision/latest/scale-to-width-down/1000?cb=20220525145521"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rook",
+    "role": "Защита",
+    "unit": "GIGN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ab/Rook_Badge_New_2.png/revision/latest?cb=20151222045526",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8d/Rook_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200325002109",
+    "description": "Оперативник GIGN, раздающий бронежилеты союзникам для увеличения их выживаемости.",
+    "weapons": [
+      {
+        "id": 7,
+        "name": "MP5",
+        "description": "Пистолет-пулемет с высокой точностью и умеренным уроном.",
+        "damage": 30,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6c/R6S_MP5_.png/revision/latest/scale-to-width-down/1000?cb=20220525145252"
+      },
+      {
+        "id": 8,
+        "name": "P90",
+        "description": "Пистолет-пулемет с высокой скорострельностью и большим магазином.",
+        "damage": 22,
+        "fire_rate": 970,
+        "magazine": 50,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/ec/R6S_P90.png/revision/latest/scale-to-width-down/1000?cb=20220525145521"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kapkan",
+    "role": "Защита",
+    "unit": "Spetsnaz",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/81/Kapkan_Badge_2.png/revision/latest?cb=20151222045525",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/fa/Kapkan_-_Full_Body.png/revision/latest?cb=20200324005209",
+    "description": "Оперативник Спецназа, устанавливающий ловушки на дверные проемы и окна для нанесения урона противникам.",
+    "weapons": [
+      {
+        "id": 9,
+        "name": "9x19VSN",
+        "description": "Пистолет-пулемет с высокой скорострельностью и умеренным уроном.",
+        "damage": 34,
+        "fire_rate": 750,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f8/R6S_9x19VSN.png/revision/latest/scale-to-width-down/1000?cb=20220525145103"
+      },
+      {
+        "id": 10,
+        "name": "SASG-12",
+        "description": "Полуавтоматическое ружье с высокой скорострельностью и мощным уроном.",
+        "damage": 49,
+        "fire_rate": 330,
+        "magazine": 10,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/38/R6S_SASG-12.png/revision/latest/scale-to-width-down/1000?cb=20220525145538"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Tachanka",
+    "role": "Защита",
+    "unit": "Spetsnaz",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/92/BADGE_Tachanka_L.png/revision/latest?cb=20240304035527",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/1/12/Tachanka_Rework_Fullbody.png/revision/latest/scale-to-width-down/1000?cb=20201008180844",
+    "description": "Оперативник Спецназа, устанавливающий пулемет для контроля над участками.",
+    "weapons": [
+      {
+        "id": 9,
+        "name": "9x19VSN",
+        "description": "Пистолет-пулемет с высокой скорострельностью и умеренным уроном.",
+        "damage": 34,
+        "fire_rate": 750,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f8/R6S_9x19VSN.png/revision/latest/scale-to-width-down/1000?cb=20220525145103"
+      },
+      {
+        "id": 10,
+        "name": "SASG-12",
+        "description": "Полуавтоматическое ружье с высокой скорострельностью и мощным уроном.",
+        "damage": 49,
+        "fire_rate": 330,
+        "magazine": 10,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/38/R6S_SASG-12.png/revision/latest/scale-to-width-down/1000?cb=20220525145538"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Jäger",
+    "role": "Защита",
+    "unit": "GSG 9",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/95/Jager_Badge_2.png/revision/latest?cb=20151222045525",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/4a/Large-jager.edd9f749.png/revision/latest?cb=20211217055955",
+    "description": "Оперативник GSG 9, использующий автоматические системы для уничтожения гранат и дронов.",
+    "weapons": [
+      {
+        "id": 11,
+        "name": "M870",
+        "description": "Помповое ружье для ближнего боя и взлома стен.",
+        "damage": 60,
+        "fire_rate": 100,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/78/R6S_M870.png/revision/latest/scale-to-width-down/1000?cb=20220525145246"
+      },
+      {
+        "id": 12,
+        "name": "416-C Carbine",
+        "description": "Компактная штурмовая винтовка с высоким уроном и скорострельностью.",
+        "damage": 38,
+        "fire_rate": 740,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/a8/R6S_416-C_Carbine.png/revision/latest/scale-to-width-down/1000?cb=20220525145104"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bandit",
+    "role": "Защита",
+    "unit": "GSG 9",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/30/Bandit_Badge_2.png/revision/latest?cb=20151222045523",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0a/Large-bandit.463ee829.png/revision/latest?cb=20220728050957",
+    "description": "Оперативник GSG 9, устанавливающий электрифицированные устройства для защиты укреплений.",
+    "weapons": [
+      {
+        "id": 13,
+        "name": "MP7",
+        "description": "Пистолет-пулемет с высокой скорострельностью и хорошей мобильностью.",
+        "damage": 32,
+        "fire_rate": 900,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7d/R6S_MP7.png/revision/latest/scale-to-width-down/1000?cb=20220525145256"
+      },
+      {
+        "id": 14,
+        "name": "M870",
+        "description": "Помповое ружье для ближнего боя и взлома стен.",
+        "damage": 60,
+        "fire_rate": 100,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/78/R6S_M870.png/revision/latest/scale-to-width-down/1000?cb=20220525145246"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Frost",
+    "role": "Защита",
+    "unit": "JTF2",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/9c/BADGE_Frost_L.png/revision/latest?cb=20240304034454",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d6/Large-frost.f4325d10.png/revision/latest?cb=20171224003931",
+    "description": "Оперативник JTF2, устанавливающая капканные ловушки для захвата и нейтрализации противников.",
+    "weapons": [
+      {
+        "id": 15,
+        "name": "Super 90",
+        "description": "Полуавтоматическое ружье с хорошей дальностью и уроном.",
+        "damage": 35,
+        "fire_rate": 70,
+        "magazine": 8,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7c/R6S_Super_90.png/revision/latest/scale-to-width-down/1000?cb=20220525145605"
+      },
+      {
+        "id": 16,
+        "name": "9mm C1",
+        "description": "Пистолет-пулемет с высокой точностью и умеренным уроном.",
+        "damage": 36,
+        "fire_rate": 575,
+        "magazine": 34,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/89/R6S_9mm_C1.png/revision/latest/scale-to-width-down/1000?cb=20220525145102"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Valkyrie",
+    "role": "Защита",
+    "unit": "Navy SEALs",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/ef/Valkyrie_badge.png/revision/latest?cb=20160509214702",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/66/Large-valkyrie.c1f143fb.png/revision/latest?cb=20220227051613",
+    "description": "Оперативник Navy SEALs, устанавливающая камеры для наблюдения и сбора разведданных.",
+    "weapons": [
+      {
+        "id": 17,
+        "name": "MPX",
+        "description": "Пистолет-пулемет с высокой точностью и скорострельностью.",
+        "damage": 26,
+        "fire_rate": 830,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0b/R6S_MPX.png/revision/latest/scale-to-width-down/1000?cb=20220525145257"
+      },
+      {
+        "id": 18,
+        "name": "SPAS-12",
+        "description": "Полуавтоматическое ружье с мощным уроном и умеренной скорострельностью.",
+        "damage": 32,
+        "fire_rate": 300,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8d/R6S_SPAS-12.png/revision/latest/scale-to-width-down/1000?cb=20220525145556"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Caveira",
+    "role": "Защита",
+    "unit": "BOPE",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/ef/R6S-badge-caveira.png/revision/latest?cb=20160802150554",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ac/Large-caveira.e4d82365.png/revision/latest?cb=20220221104346",
+    "description": "Оперативник BOPE, использующая скрытность для захвата и допроса противников.",
+    "weapons": [
+      {
+        "id": 19,
+        "name": "M12",
+        "description": "Пистолет-пулемет с низкой скорострельностью и высокой точностью.",
+        "damage": 36,
+        "fire_rate": 550,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ad/R6S_M12.png/revision/latest/scale-to-width-down/1000?cb=20220525145239"
+      },
+      {
+        "id": 20,
+        "name": "SPAS-15",
+        "description": "Полуавтоматическое ружье с высоким уроном и скорострельностью.",
+        "damage": 30,
+        "fire_rate": 300,
+        "magazine": 6,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/06/R6S_SPAS-15.png/revision/latest/scale-to-width-down/1000?cb=20220525145558"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Echo",
+    "role": "Защита",
+    "unit": "SAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b4/R6S-echo.png/revision/latest?cb=20161118012816",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d7/Echo_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180110071312",
+    "description": "Оперативник SAT, использующий дрон для дезориентации и подавления врагов.",
+    "weapons": [
+      {
+        "id": 21,
+        "name": "MP5SD",
+        "description": "Пистолет-пулемет с интегрированным глушителем и высокой точностью.",
+        "damage": 27,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/e7/R6S_MP5SD.png/revision/latest/scale-to-width-down/1000?cb=20220525145255"
+      },
+      {
+        "id": 22,
+        "name": "Supernova",
+        "description": "Ружье с мощным уроном и высокой скорострельностью.",
+        "damage": 48,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b0/R6S_SuperNova.png/revision/latest/scale-to-width-down/1000?cb=20220525145608"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mira",
+    "role": "Защита",
+    "unit": "GEO",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8f/R6S-mira.png/revision/latest?cb=20170206200012",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/e4/Large-mira.0c9e3bd8.png/revision/latest?cb=20220205223816",
+    "description": "Оперативник GEO, устанавливающая односторонние зеркала для наблюдения за врагами.",
+    "weapons": [
+      {
+        "id": 23,
+        "name": "VECTOR .45 ACP",
+        "description": "Пистолет-пулемет с высокой скорострельностью и точностью.",
+        "damage": 23,
+        "fire_rate": 1200,
+        "magazine": 25,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/29/R6S_Vector_.45_ACP.png/revision/latest/scale-to-width-down/1000?cb=20220525145619"
+      },
+      {
+        "id": 24,
+        "name": "ITA12L",
+        "description": "Ружье с высокой скорострельностью и уроном.",
+        "damage": 30,
+        "fire_rate": 75,
+        "magazine": 8,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/1/19/R6S_ITA12L.png/revision/latest/scale-to-width-down/1000?cb=20220525145224"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Lesion",
+    "role": "Защита",
+    "unit": "SDU",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d2/R6S-Lesion.png/revision/latest?cb=20170828194022",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d1/Large-lesion.d48d6d33.png/revision/latest?cb=20220226223646",
+    "description": "Оперативник SDU, использующий ядовитые мины для замедления и нанесения урона врагам.",
+    "weapons": [
+      {
+        "id": 25,
+        "name": "T-5 SMG",
+        "description": "Пистолет-пулемет с высокой точностью и скорострельностью.",
+        "damage": 30,
+        "fire_rate": 900,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/90/R6S_T-5_SMG.png/revision/latest/scale-to-width-down/1000?cb=20220525145609"
+      },
+      {
+        "id": 26,
+        "name": "SIX12 SD",
+        "description": "Ружье с интегрированным глушителем и высоким уроном.",
+        "damage": 35,
+        "fire_rate": 70,
+        "magazine": 6,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/ba/R6S_SIX12_SD.png/revision/latest/scale-to-width-down/1000?cb=20220525145550"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Ela",
+    "role": "Защита",
+    "unit": "GROM",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/3f/Ela_icon.png/revision/latest?cb=20170913223125",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/20/Large-ela.a50c192d.png/revision/latest?cb=20220201093902",
+    "description": "Оперативник GROM, устанавливающая миниатюрные ловушки для дезориентации врагов.",
+    "weapons": [
+      {
+        "id": 27,
+        "name": "Scorpion EVO 3 A1",
+        "description": "Пистолет-пулемет с высокой скорострельностью и хорошей точностью.",
+        "damage": 28,
+        "fire_rate": 1080,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/57/R6S_Scorpion_EVO_3_A1.png/revision/latest/scale-to-width-down/1000?cb=20220525145540"
+      },
+      {
+        "id": 28,
+        "name": "FO-12",
+        "description": "Ружье с мощным уроном и высокой скорострельностью.",
+        "damage": 35,
+        "fire_rate": 75,
+        "magazine": 10,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/64/R6S_FO-12.png/revision/latest/scale-to-width-down/1000?cb=20220525145212"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Maestro",
+    "role": "Защита",
+    "unit": "G.I.S.",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b7/Maestro_-_Icon.png/revision/latest?cb=20180522220537",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7e/Maestro_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180522225530",
+    "description": "Оперативник G.I.S., использующий бронированные камеры для наблюдения и стрельбы.",
+    "weapons": [
+      {
+        "id": 29,
+        "name": "ALDA 5.56",
+        "description": "Легкий пулемет с высокой скорострельностью и уроном.",
+        "damage": 35,
+        "fire_rate": 900,
+        "magazine": 80,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/91/R6S_ALDA_5.56.png/revision/latest/scale-to-width-down/1000?cb=20220525145117"
+      },
+      {
+        "id": 30,
+        "name": "ACS12",
+        "description": "Ружье с высоким уроном и большой емкостью магазина.",
+        "damage": 25,
+        "fire_rate": 300,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ac/R6S_ACS12.png/revision/latest/scale-to-width-down/1000?cb=20220525145111"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Alibi",
+    "role": "Защита",
+    "unit": "G.I.S.",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d7/Alibi_-_Icon.png/revision/latest?cb=20180522220413",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f1/Alibi_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180522223051",
+    "description": "Оперативник G.I.S., использующая голограммы для обмана и дезориентации врагов.",
+    "weapons": [
+      {
+        "id": 31,
+        "name": "Mx4 Storm",
+        "description": "Пистолет-пулемет с высокой скорострельностью и точностью.",
+        "damage": 26,
+        "fire_rate": 950,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/48/R6S_Mx4_Storm.png/revision/latest/scale-to-width-down/1000?cb=20220525145258"
+      },
+      {
+        "id": 32,
+        "name": "ACS12",
+        "description": "Ружье с высоким уроном и большой емкостью магазина.",
+        "damage": 25,
+        "fire_rate": 300,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/ac/R6S_ACS12.png/revision/latest/scale-to-width-down/1000?cb=20220525145111"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Clash",
+    "role": "Защита",
+    "unit": "GSUTR",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/5c/Clash_logo_HD_-_Copy2.png/revision/latest?cb=20190525001600",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6f/Clash_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180823044516",
+    "description": "Оперативник GSUTR, использующая щит с электрошоком для сдерживания врагов.",
+    "weapons": [
+      {
+        "id": 33,
+        "name": "SPSMG9",
+        "description": "Компактный пистолет-пулемет с высокой скорострельностью.",
+        "damage": 33,
+        "fire_rate": 980,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/aa/R6S_SPSMG9.png/revision/latest/scale-to-width-down/1000?cb=20220525145600"
+      },
+      {
+        "id": 34,
+        "name": "P-10C",
+        "description": "Пистолет с хорошей точностью и уроном.",
+        "damage": 40,
+        "fire_rate": 450,
+        "magazine": 15,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/ca/R6S_P-10C.png/revision/latest?cb=20220525145518"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Sledge",
+    "role": "Атака",
+    "unit": "SAS",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/76/Sledge_Icon_-_Standard.png/revision/latest?cb=20151222045526",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/55/Sledge_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180210051516",
+    "description": "Оперативник SAS, использующий тяжелый молот для пробивания стен и баррикад.",
+    "weapons": [
+      {
+        "id": 1,
+        "name": "M590A1",
+        "description": "Помповое ружье для ближнего боя и взлома стен.",
+        "damage": 48,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/c0/R6S_M590A1.png/revision/latest/scale-to-width-down/350?cb=20220525145244"
+      },
+      {
+        "id": 2,
+        "name": "L85A2",
+        "description": "Штурмовая винтовка, известная своей надежностью и точностью.",
+        "damage": 47,
+        "fire_rate": 670,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/94/R6S_L85A2.png/revision/latest/scale-to-width-down/1000?cb=20220525145230"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Thatcher",
+    "role": "Атака",
+    "unit": "SAS",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6d/Thatcher_Icon_-_Standard.png/revision/latest?cb=20151222045527",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/09/Thatcher_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180210071159",
+    "description": "Оперативник SAS, использующий гранаты EMP для уничтожения вражеских гаджетов.",
+    "weapons": [
+      {
+        "id": 3,
+        "name": "AR33",
+        "description": "Компактная штурмовая винтовка, отличающаяся высокой мобильностью и универсальностью.",
+        "damage": 41,
+        "fire_rate": 750,
+        "magazine": 25,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/40/R6S_AR33.png/revision/latest/scale-to-width-down/1000?cb=20220525145120"
+      },
+      {
+        "id": 2,
+        "name": "L85A2",
+        "description": "Штурмовая винтовка, известная своей надежностью и точностью.",
+        "damage": 47,
+        "fire_rate": 670,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/94/R6S_L85A2.png/revision/latest/scale-to-width-down/1000?cb=20220525145230"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ash",
+    "role": "Атака",
+    "unit": "FBI SWAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d7/Ash_Icon_-_Standard.png/revision/latest?cb=20151222045522",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/42/Ash_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180224040849",
+    "description": "Оперативница FBI SWAT, использующая взрывные заряды для пробивания стен на расстоянии.",
+    "weapons": [
+      {
+        "id": 4,
+        "name": "R4-C",
+        "description": "Штурмовая винтовка с высокой скорострельностью и уроном.",
+        "damage": 39,
+        "fire_rate": 860,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/27/R6S_R4-C.png/revision/latest/scale-to-width-down/1000?cb=20220525145532"
+      },
+      {
+        "id": 5,
+        "name": "G36C",
+        "description": "Универсальная штурмовая винтовка, известная своей точностью и удобством использования.",
+        "damage": 38,
+        "fire_rate": 780,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/49/R6S_G36C.png/revision/latest/scale-to-width-down/1000?cb=20220525145215"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Thermite",
+    "role": "Атака",
+    "unit": "FBI SWAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/e3/Thermite_Badge_2.png/revision/latest?cb=20151222045527",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/68/Thermite_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200325001654",
+    "description": "Оперативник FBI SWAT, использующий термитные заряды для пробивания укрепленных стен.",
+    "weapons": [
+      {
+        "id": 6,
+        "name": "M1014",
+        "description": "Полуавтоматическое ружье, эффективное в ближнем бою.",
+        "damage": 32,
+        "fire_rate": 75,
+        "magazine": 8,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8b/R6S_M1014.png/revision/latest/scale-to-width-down/1000?cb=20220525145248"
+      },
+      {
+        "id": 7,
+        "name": "556XI",
+        "description": "Штурмовая винтовка с отличным останавливающим действием.",
+        "damage": 46,
+        "fire_rate": 690,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/81/R6S_556xi.png/revision/latest/scale-to-width-down/1000?cb=20220525145108"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Montagne",
+    "role": "Атака",
+    "unit": "GIGN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/be/Montagne_Badge_2.png/revision/latest?cb=20151222045525",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/04/Montagne_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200323112250",
+    "description": "Оперативник GIGN, использующий большой щит для защиты себя и своей команды.",
+    "weapons": [
+      {
+        "id": 8,
+        "name": "P9",
+        "description": "Надежный полуавтоматический пистолет.",
+        "damage": 45,
+        "fire_rate": 450,
+        "magazine": 16,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/39/R6S_P9.png/revision/latest/scale-to-width-down/1000?cb=20220525145516"
+      },
+      {
+        "id": 9,
+        "name": "LFP586",
+        "description": "Высококалиберный револьвер с мощным останавливающим действием.",
+        "damage": 65,
+        "fire_rate": 230,
+        "magazine": 6,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/1/1f/R6S_LFP586.png/revision/latest/scale-to-width-down/1000?cb=20220525145232"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Twitch",
+    "role": "Атака",
+    "unit": "GIGN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/47/Twitch_Badge_New_2.png/revision/latest?cb=20151222045527",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f5/Twitch_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200323110648",
+    "description": "Оперативница GIGN, использующая дроны с электрическими разрядами для уничтожения вражеских гаджетов.",
+    "weapons": [
+      {
+        "id": 10,
+        "name": "F2",
+        "description": "Штурмовая винтовка с высокой скорострельностью и уроном.",
+        "damage": 37,
+        "fire_rate": 980,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/94/R6S_F2.png/revision/latest/scale-to-width-down/1000?cb=20220525145208"
+      },
+      {
+        "id": 11,
+        "name": "SG-CQB",
+        "description": "Помповое ружье, эффективное в ближнем бою и взломе стен.",
+        "damage": 50,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/36/R6S_SG-CQB.png/revision/latest/scale-to-width-down/1000?cb=20220525145543"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Blitz",
+    "role": "Атака",
+    "unit": "GSG 9",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/62/Blitz_Badge_2.png/revision/latest?cb=20151222045523",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6c/Large-blitz.2e74d4b8.png/revision/latest?cb=20220226223235",
+    "description": "Оперативник GSG 9, использующий щит с ослепляющими вспышками для подавления врагов.",
+    "weapons": [
+      {
+        "id": 12,
+        "name": "P12",
+        "description": "Надежный полуавтоматический пистолет с хорошей точностью.",
+        "damage": 44,
+        "fire_rate": 450,
+        "magazine": 15,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/95/R6S_P12.png/revision/latest/scale-to-width-down/1000?cb=20220525145519"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "IQ",
+    "role": "Атака",
+    "unit": "GSG 9",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b7/IQ_Badge_2.png/revision/latest?cb=20151222045524",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8c/IQ_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180110054100",
+    "description": "Оперативница GSG 9, использующая устройство для обнаружения электронных гаджетов.",
+    "weapons": [
+      {
+        "id": 13,
+        "name": "AUG A2",
+        "description": "Штурмовая винтовка с высокой точностью и умеренной скорострельностью.",
+        "damage": 42,
+        "fire_rate": 720,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/5e/R6S_AUG_A2.png/revision/latest/scale-to-width-down/1000?cb=20220525145124"
+      },
+      {
+        "id": 14,
+        "name": "552 Commando",
+        "description": "Компактная штурмовая винтовка с высоким уроном.",
+        "damage": 48,
+        "fire_rate": 690,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0d/R6S_552_Commando.png/revision/latest/scale-to-width-down/1000?cb=20220525145107"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Buck",
+    "role": "Атака",
+    "unit": "JTF2",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/fd/BADGE_Buck_L.png/revision/latest?cb=20240304040911",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d1/Buck_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180208034939",
+    "description": "Оперативник JTF2, использующий подствольное ружье для пробивания стен и уничтожения врагов.",
+    "weapons": [
+      {
+        "id": 15,
+        "name": "C8-SFW",
+        "description": "Штурмовая винтовка с хорошим балансом между уроном и скорострельностью.",
+        "damage": 40,
+        "fire_rate": 837,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/65/R6S_C8-SFW.png/revision/latest/scale-to-width-down/1000?cb=20220525145859"
+      },
+      {
+        "id": 16,
+        "name": "CAMRS",
+        "description": "Полуавтоматическая снайперская винтовка с высоким уроном.",
+        "damage": 69,
+        "fire_rate": 450,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/6/6d/R6S_CAMRS.png/revision/latest/scale-to-width-down/1000?cb=20220525145900"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Blackbeard",
+    "role": "Атака",
+    "unit": "Navy SEALs",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/dd/Blackbeard_badge.png/revision/latest?cb=20160509214645",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/09/Large-blackbeard.2292a791.png/revision/latest?cb=20220226215855",
+    "description": "Оперативник Navy SEALs, использующий щит на оружии для защиты от пуль.",
+    "weapons": [
+      {
+        "id": 17,
+        "name": "MK17 CQB",
+        "description": "Штурмовая винтовка с высоким уроном и умеренной скорострельностью.",
+        "damage": 49,
+        "fire_rate": 600,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/31/R6S_Mk17_CQB.png/revision/latest/scale-to-width-down/1000?cb=20220525145251"
+      },
+      {
+        "id": 18,
+        "name": "SR-25",
+        "description": "Полуавтоматическая снайперская винтовка с высоким уроном.",
+        "damage": 61,
+        "fire_rate": 450,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0f/R6S_SR-25.png/revision/latest/scale-to-width-down/1000?cb=20220525145602"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Capitão",
+    "role": "Атака",
+    "unit": "BOPE",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/4e/R6S-badge-capitao.png/revision/latest?cb=20160802150526",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/96/Large-capitao.984e75b7.png/revision/latest?cb=20220226222127",
+    "description": "Оперативник BOPE, использующий арбалет с зажигательными и дымовыми стрелами.",
+    "weapons": [
+      {
+        "id": 19,
+        "name": "PARA-308",
+        "description": "Штурмовая винтовка с высоким уроном и умеренной скорострельностью.",
+        "damage": 48,
+        "fire_rate": 650,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/29/R6S_PARA-308.png/revision/latest/scale-to-width-down/1000?cb=20220525145524"
+      },
+      {
+        "id": 20,
+        "name": "M249",
+        "description": "Легкий пулемет с высокой скорострельностью и большой емкостью магазина.",
+        "damage": 35,
+        "fire_rate": 800,
+        "magazine": 100,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/ea/R6S_M249.png/revision/latest/scale-to-width-down/1000?cb=20220525145243"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Hibana",
+    "role": "Атака",
+    "unit": "SAT",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/79/R6S-hibana.png/revision/latest?cb=20161118012747",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/3/37/Hibana_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20200323110132",
+    "description": "Оперативница SAT, использующая гранатомет с термитными зарядами для пробивания укрепленных стен.",
+    "weapons": [
+      {
+        "id": 21,
+        "name": "Type-89",
+        "description": "Штурмовая винтовка с высокой точностью и скорострельностью.",
+        "damage": 40,
+        "fire_rate": 850,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/f0/R6S_Type-89.png/revision/latest/scale-to-width-down/1000?cb=20220525145614"
+      },
+      {
+        "id": 22,
+        "name": "Supernova",
+        "description": "Помповое ружье с высоким уроном, эффективное в ближнем бою.",
+        "damage": 48,
+        "fire_rate": 70,
+        "magazine": 7,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b0/R6S_SuperNova.png/revision/latest/scale-to-width-down/1000?cb=20220525145608"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Jackal",
+    "role": "Атака",
+    "unit": "GEO",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d4/R6S-jackal.png/revision/latest?cb=20170206195745",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/05/Large-jackal.e7ec96e6.png/revision/latest?cb=20171224004933",
+    "description": "Оперативник GEO, использующий устройство для отслеживания следов врагов.",
+    "weapons": [
+      {
+        "id": 23,
+        "name": "C7E",
+        "description": "Штурмовая винтовка с высоким уроном и скорострельностью.",
+        "damage": 46,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/b1/R6S_C7E.png/revision/latest/scale-to-width-down/1000?cb=20220525145144"
+      },
+      {
+        "id": 24,
+        "name": "PDW9",
+        "description": "Пистолет-пулемет с высокой скорострельностью и точностью.",
+        "damage": 34,
+        "fire_rate": 800,
+        "magazine": 50,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/88/R6S_PDW9.png/revision/latest/scale-to-width-down/1000?cb=20220525145525"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Ying",
+    "role": "Атака",
+    "unit": "SDU",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d7/R6S-Ying.png/revision/latest?cb=20170828194010",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/27/Ying_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180409014805",
+    "description": "Оперативница SDU, использующая заряды, ослепляющие врагов.",
+    "weapons": [
+      {
+        "id": 25,
+        "name": "T-95 LSW",
+        "description": "Легкий пулемет с высокой скорострельностью и большой емкостью магазина.",
+        "damage": 43,
+        "fire_rate": 650,
+        "magazine": 80,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/cf/R6S_T-95_LSW.png/revision/latest/scale-to-width-down/1000?cb=20220525145610"
+      },
+      {
+        "id": 26,
+        "name": "SIX12",
+        "description": "Полуавтоматическое ружье с высоким уроном и хорошей скорострельностью.",
+        "damage": 38,
+        "fire_rate": 500,
+        "magazine": 6,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/2/22/R6S_SIX12.png/revision/latest/scale-to-width-down/1000?cb=20220525145551"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Zofia",
+    "role": "Атака",
+    "unit": "GROM",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/f/fb/Zofia_icon.png/revision/latest?cb=20171115182418",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/a8/Large-zofia.f9f7568b.png/revision/latest?cb=20220217201800",
+    "description": "Оперативница GROM, использующая гранатомет с оглушающими и взрывными гранатами.",
+    "weapons": [
+      {
+        "id": 27,
+        "name": "LMG-E",
+        "description": "Легкий пулемет с высокой скорострельностью и большой емкостью магазина.",
+        "damage": 41,
+        "fire_rate": 720,
+        "magazine": 150,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/5a/R6S_LMG-E.png/revision/latest/scale-to-width-down/1000?cb=20220525145233"
+      },
+      {
+        "id": 28,
+        "name": "M762",
+        "description": "Штурмовая винтовка с высоким уроном и скорострельностью.",
+        "damage": 45,
+        "fire_rate": 780,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/b/be/R6S_M762.png/revision/latest/scale-to-width-down/1000?cb=20220525145245"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dokkaebi",
+    "role": "Атака",
+    "unit": "707th SMB",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/0/0c/Dokkaebi_icon.png/revision/latest?cb=20171120222956",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/9/9a/Dokkaebi_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180110054756",
+    "description": "Оперативница 707th SMB, использующая устройство для взлома камер и телефонов врагов.",
+    "weapons": [
+      {
+        "id": 29,
+        "name": "Mk 14 EBR",
+        "description": "Полуавтоматическая снайперская винтовка с высоким уроном и точностью.",
+        "damage": 60,
+        "fire_rate": 450,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d3/R6S_Mk_14_EBR.png/revision/latest/scale-to-width-down/1000?cb=20220525145249"
+      },
+      {
+        "id": 30,
+        "name": "BOSG.12.2",
+        "description": "Двуствольное ружье с высоким уроном и медленной перезарядкой.",
+        "damage": 125,
+        "fire_rate": 120,
+        "magazine": 2,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d7/R6S_BOSG.12.2.png/revision/latest/scale-to-width-down/1000?cb=20220525145136"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Lion",
+    "role": "Атака",
+    "unit": "CBRN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/47/Lion.png/revision/latest?cb=20180220011251",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/4b/Lion_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180224044503",
+    "description": "Оперативник CBRN, использующий дрон для обнаружения движущихся врагов.",
+    "weapons": [
+      {
+        "id": 31,
+        "name": "V308",
+        "description": "Штурмовая винтовка с высокой скорострельностью и точностью.",
+        "damage": 44,
+        "fire_rate": 700,
+        "magazine": 50,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/e/e7/R6S_V308.png/revision/latest/scale-to-width-down/1000?cb=20220525145618"
+      },
+      {
+        "id": 32,
+        "name": "417",
+        "description": "Полуавтоматическая снайперская винтовка с высоким уроном и точностью.",
+        "damage": 69,
+        "fire_rate": 450,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/1/18/R6S_417.png/revision/latest/scale-to-width-down/1000?cb=20220525145105"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Finka",
+    "role": "Атака",
+    "unit": "CBRN",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/de/Finka_icon.png/revision/latest?cb=20180220011308",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/a2/Finka_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180224044503",
+    "description": "Оперативница CBRN, использующая наноботы для повышения боеспособности команды.",
+    "weapons": [
+      {
+        "id": 33,
+        "name": "Spear .308",
+        "description": "Штурмовая винтовка с высокой точностью и уроном.",
+        "damage": 42,
+        "fire_rate": 780,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/5/58/R6S_Spear_.308.png/revision/latest/scale-to-width-down/1000?cb=20220525145559"
+      },
+      {
+        "id": 34,
+        "name": "6P41",
+        "description": "Легкий пулемет с высокой скорострельностью и большой емкостью магазина.",
+        "damage": 46,
+        "fire_rate": 680,
+        "magazine": 100,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/4/4a/R6S_6P41.png/revision/latest/scale-to-width-down/1000?cb=20220525145100"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Maverick",
+    "role": "Атака",
+    "unit": "GSUTR",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/c8/Maverick_logo_HD.png/revision/latest/scale-to-width-down/1000?cb=20190524235156",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/d/d3/Maverick_-_Full_Body.png/revision/latest/scale-to-width-down/1000?cb=20180823044337",
+    "description": "Оперативник GSUTR, использующий газовую горелку для создания отверстий в стенах и баррикадах.",
+    "weapons": [
+      {
+        "id": 35,
+        "name": "AR-15.50",
+        "description": "Полуавтоматическая штурмовая винтовка с высоким уроном.",
+        "damage": 62,
+        "fire_rate": 450,
+        "magazine": 10,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/1/18/R6S_AR-15.50.png/revision/latest/scale-to-width-down/1000?cb=20220525145118"
+      },
+      {
+        "id": 36,
+        "name": "M4",
+        "description": "Штурмовая винтовка с хорошим балансом между уроном и скорострельностью.",
+        "damage": 44,
+        "fire_rate": 800,
+        "magazine": 30,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/c/cf/R6S_M4.png/revision/latest/scale-to-width-down/1000?cb=20220525145238"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Nomad",
+    "role": "Атака",
+    "unit": "GIGR",
+    "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/8/8d/R6S-Nomad.png/revision/latest?cb=20181119191959",
+    "image_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7d/Nomad_-_Full_body.png/revision/latest?cb=20220226223910",
+    "description": "Оперативница GIGR, использующая устройства, которые отталкивают врагов при активации.",
+    "weapons": [
+      {
+        "id": 37,
+        "name": "AK-74M",
+        "description": "Штурмовая винтовка с высоким уроном и хорошей точностью.",
+        "damage": 44,
+        "fire_rate": 650,
+        "magazine": 40,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/a/a6/R6S_AK-74M.png/revision/latest/scale-to-width-down/1000?cb=20220525145116"
+      },
+      {
+        "id": 38,
+        "name": "ARX200",
+        "description": "Штурмовая винтовка с высоким уроном и умеренной скорострельностью.",
+        "damage": 47,
+        "fire_rate": 700,
+        "magazine": 20,
+        "icon_url": "https://static.wikia.nocookie.net/rainbowsix/images/7/7f/R6S_ARX200.png/revision/latest/scale-to-width-down/1000?cb=20220525145123"
+      }
+    ]
+  }
+]
